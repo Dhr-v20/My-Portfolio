@@ -16,7 +16,7 @@ export default function Projects() {
           <div className="project-card" data-aos="fade-up" data-aos-delay="100">
             <div className="project-img">
               <img
-                src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
+                src="Schoolwebsiteimg.jpg"
                 alt="Project 1"
               />
               <div className="project-overlay">
@@ -24,7 +24,7 @@ export default function Projects() {
                   <a href="#" className="project-btn">
                     <i className="fas fa-link"></i>
                   </a>
-                  <a href="#" className="project-btn">
+                  <a href="https://github.com/Dhr-v20" className="project-btn">
                     <i className="fab fa-github"></i>
                   </a>
                 </div>
@@ -49,7 +49,7 @@ export default function Projects() {
           <div className="project-card" data-aos="fade-up" data-aos-delay="300">
             <div className="project-img">
               <img
-                src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+                src="Doopi.AImg.jpg"
                 alt="Project 2"
               />
               <div className="project-overlay">
@@ -57,7 +57,7 @@ export default function Projects() {
                   <a href="#" className="project-btn">
                     <i className="fas fa-link"></i>
                   </a>
-                  <a href="#" className="project-btn">
+                  <a href="https://github.com/Dhr-v20" className="project-btn">
                     <i className="fab fa-github"></i>
                   </a>
                 </div>
@@ -90,7 +90,7 @@ export default function Projects() {
                   <a href="#" className="project-btn">
                     <i className="fas fa-link"></i>
                   </a>
-                  <a href="#" className="project-btn">
+                  <a href="https://github.com/Dhr-v20" className="project-btn">
                     <i className="fab fa-github"></i>
                   </a>
                 </div>
@@ -117,15 +117,15 @@ export default function Projects() {
           <div className="project-card" data-aos="fade-up" data-aos-delay="300">
             <div className="project-img">
               <img
-                src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+                src="Dropmintimg.jpg"
                 alt="Project 4"
               />
               <div className="project-overlay">
                 <div className="project-actions">
-                  <a href="#" className="project-btn">
+                  <a href="https://dropmint.co/" className="project-btn">
                     <i className="fas fa-link"></i>
                   </a>
-                  <a href="#" className="project-btn">
+                  <a href="https://github.com/Dhr-v20" className="project-btn">
                     <i className="fab fa-github"></i>
                   </a>
                 </div>
@@ -149,7 +149,7 @@ export default function Projects() {
           <div className="project-card" data-aos="fade-up" data-aos-delay="200">
             <div className="project-img">
               <img
-                src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1115&q=80"
+                src="My Portfolio img.jpg"
                 alt="Project 5"
               />
               <div className="project-overlay">
@@ -164,7 +164,7 @@ export default function Projects() {
               </div>
             </div>
             <div className="project-info">
-              <h3>My Own Portfolio</h3>
+              <h3>My Portfolio</h3>
               <p>
                with Live animation objects And interactive dashboard with other accessory designs with fully responsive.
               </p>
