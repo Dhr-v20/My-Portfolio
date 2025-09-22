@@ -27,11 +27,11 @@ export default function Navbar() {
     <header id="header" className={scrolled ? "scrolled" : ""}>
       <div className="container">
         <nav>
-          {/* Logo */}
-          <div className="logo">
-            <i className="fas fa-code"></i>
-            Dev<span>Portfolio</span>
-          </div>
+            {/* Logo */}
+           <div className="logo">
+             <img className="logoimg" src="dhruvlogo.jpg" alt="logo" />
+          
+           </div>
 
           {/* Nav Links */}
           <ul className={`nav-links ${menuActive ? "active" : ""}`}>

@@ -41,6 +41,11 @@ export default function About() {
             </p>
           </div>
 
+
+          <div className="about-img" data-aos="fade-left">
+            <img className="Aboutimage" src="Gemini_Generated_Image_j1d8j3j1d8j3j1d8.png" alt="abimage" />
+          </div>
+
           {/* Skills */}
           <div className="about-skills" data-aos="fade-left">
             {skills.map((skill, index) => (

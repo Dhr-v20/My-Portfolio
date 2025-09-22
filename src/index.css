@@ -104,7 +104,7 @@
         }
         
         header.scrolled {
-            padding: 10px 0;
+            padding: 15px 0;
             background-color: rgba(255, 255, 255, 0.98);
             box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
         }
@@ -123,6 +123,11 @@
             color: var(--primary);
             display: flex;
             align-items: center;
+        }
+
+        img.logoimg {
+         width: 165px;
+         
         }
         
         .logo span {
@@ -277,6 +282,14 @@
         }
         
         /* About Section */
+
+        img.Aboutimage {
+        height: 537px;
+        border: 15px solid rgba(52, 152, 219, 0.8);
+        margin-left: -50px;
+        margin-right: -42px;
+        border-radius: 83px;
+     }
         .about-content {
             display: flex;
             align-items: center;
@@ -769,6 +782,20 @@
         
         .contact-form {
             flex: 1;
+        }
+
+        .logoFooter {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            }
+
+        img.logoimgF {
+             width: 165px;
+             margin-top: 15px;
+                margin-left: 40px;
         }
         
         .form-group {

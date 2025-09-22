@@ -68,9 +68,16 @@ export default function Contact() {
               <div>
                 <h3>Working Hours</h3>
                 <p>Mon-Fri: 9AM - 5PM</p>
-              </div>
+              </div> 
             </div>
+
+            {/* Logo */}
+              <div className="logoFooter">
+                <img className="logoimgF" src="dhruvlogo.jpg" alt="logo" />
+              </div>
           </div>
+
+          
 
           {/* Contact Form */}
           <div className="contact-form" data-aos="fade-left">
