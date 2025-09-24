@@ -1,6 +1,6 @@
 // Experience.jsx
 import React from "react";
-import ExperienceAnimation from "../assets/experience.json";
+import ExperienceAnimation from "../assets/Experience.json";
 import Lottie from "lottie-react";
 
 export default function Experience() {
